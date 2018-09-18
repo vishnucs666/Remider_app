@@ -11,7 +11,7 @@ Reminder app is a app to show events in daily basis.
 - SQL as backend
 
 ### DB setup
-*Admin user
-username:vishnu
-password:007 
+- *Admin user
+- username:vishnu
+- password:007 
     
